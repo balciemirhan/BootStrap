@@ -1,2 +1,2 @@
 # BootStrap-1
-asıdho
+html-css-bootstrap kullanarak web sitesi oluşturma.
